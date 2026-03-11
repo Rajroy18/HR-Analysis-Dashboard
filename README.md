@@ -203,7 +203,7 @@ HR Analytics.pbix
 
 # How to Use the Dashboard
 
-1. Open the `.pbix` file in **Power BI Desktop**
+1. Open the `.pbit` file in **Power BI Desktop**
 2. Navigate to the **HR Analytics Dashboard page**
 3. Use **filters and slicers** to explore employee data
 4. Hover over visuals for **detailed tooltips**
