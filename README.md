@@ -1,6 +1,6 @@
 # HR Analytics Dashboard (Power BI)
 
-![Alt text](image-url)
+<img width="2767" height="1600" alt="HR analytics" src="https://github.com/user-attachments/assets/9be9a1f4-9d66-44a0-b8d9-76184d203c3a" />
 
 ## Overview
 
